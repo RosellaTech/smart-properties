@@ -1,5 +1,5 @@
 import "./Residencies.css";
-import { Swiper, SwiperSlide, useSwiper } from "Swiper/react";
+import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import "swiper/css";
 import { sliderSettings } from "../../utils/Common";
 import data from "../../utils/slider.json";
