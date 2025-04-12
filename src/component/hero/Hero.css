@@ -118,4 +118,30 @@
   .stat > :nth-child(2) {
     font-size: 0.8rem;
   }
+
+  .flexCenter search-bar{
+    width: 25%;
+  }
+
+  
+.search-bar {
+  padding: 0.3rem 0.3rem;
+}
+
+.search-bar > input {
+  border: none;
+  outline: none;
+  height: 100%;
+  flex: 1;
+}
+
+.search-bar  .button {
+ padding: 0.4rem 0.5rem;
+}
+
+.hero-wrapper {
+  padding: 1rem;
+}
+
+
 }
